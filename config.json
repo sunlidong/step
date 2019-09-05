@@ -10,7 +10,7 @@
     "2019-08-28"
   ],
   "mspid": "Org1MSP",
-  "private_key": "/root/go/src/dlchain/server/crypto-config/peerOrganizations/org1.dinglian.com/users/Admin@org1.dinglian.com/msp/keystore",
+  "private_key": "/root/go/src/dlchain/server/crypto-config/peerOrganizations/org1.dinglian.com/users/Admin@org1.dinglian.com/msp/keystore/5b6e2a25c553a9e02ffbbf4e16f61ce1f86304e6190d05724dd8249276af6cb3_sk",
   "sign_cert": "/root/go/src/dlchain/server/crypto-config/peerOrganizations/org1.dinglian.com/users/Admin@org1.dinglian.com/msp/signcerts/cert.pem",
   "tls_ca_certs": ["/root/go/src/dlchain/server/crypto-config/peerOrganizations/org1.dinglian.com/peers/peer0.org1.dinglian.com/tls/ca.crt","/root/go/src/dlchain/server/crypto-config/ordererOrganizations/dinglian.com/orderers/orderer0.dinglian.com/tls/ca.crt"],
   "num_of_conn": 20,
